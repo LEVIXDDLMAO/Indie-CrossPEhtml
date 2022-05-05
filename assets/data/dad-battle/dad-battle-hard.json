@@ -3,7 +3,7 @@
 		"sectionLengths": [],
 		"player1": "bf",
 		"gfVersion": "gf",
-		"player2": "bf",
+		"player2": "mom",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -11296,7 +11296,7 @@
 		],
 		"song": "Dad-Battle",
 		"validScore": true,
-		"stage": "stage",
+		"stage": "limo",
 		"sections": 0,
 		"needsVoices": true,
 		"speed": 3,

@@ -5144,13 +5144,13 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "dad",
+		"player2": "spooky",
 		"gfVersion": "gf",
 		"player3": "dad",
 		"song": "Fresh",
 		"needsVoices": true,
 		"sections": 45,
-		"stage": "hall",
+		"stage": "mall",
 		"validScore": true,
 		"speed": 2.9,
 		"bpm": 130,
